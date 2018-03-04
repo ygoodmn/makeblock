@@ -1,6 +1,8 @@
 # makeblock
 makeblock
 
+sb2 files are created using MakeBlock 3.0
+
 # Description
 
 Place where I will put mBot files for makeblock.
