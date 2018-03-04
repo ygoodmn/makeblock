@@ -18,7 +18,8 @@ Makebot components purchased:
 6. various beams
 7. Robot Arm
 
-Projects worked on: Roboti Arm attached to Ranger with joystick control of UP/DOWN and OPEN CLOSE
+Projects worked on: 
+- Robot Arm attached to Ranger with joystick control of UP/DOWN and OPEN CLOSE
 
 Notes: Exact purchase from https://www.4project.co.il/
 קיט רובוטיקה למתחילים - mBot v1.1 ורוד - גרסת Bluetooth 	
