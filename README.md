@@ -1,7 +1,7 @@
 # makeblock
 makeblock
 
-#Description
+# Description
 
 Place where I will put mBot files for makeblock.
 
@@ -9,14 +9,14 @@ These are sample investigations.
 
 Makebot components purchased:
 
-1 mBot blue
-1 mBot pink
-1 Ranger
-1 Robot Arm Assembly kit
+1. mBot blue
+2. mBot pink
+3. Ranger
+4. Robot Arm Assembly kit
 
-1 various encoders
-1 various beams
-1 Robot Arm
+5. various encoders
+6. various beams
+7. Robot Arm
 
 Projects worked on: Roboti Arm attached to Ranger with joystick control of UP/DOWN and OPEN CLOSE
 
